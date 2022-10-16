@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Avenir, Avenir next, Avenir Next Condensed;
+  padding: 10px;
+   background-image: url(https://images.template.net/97256/free-green-aesthetic-background-03qaz.jpg) ;
+}
+
+.header h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background:#4e5a23 ;
+}
+
+.paragraph {
+  font-size: 15px;
+  color:  black 
+}
+
+.Leiste {
+  overflow: hidden;
+  background-color: #b0b59c;
+}
+
+.Leiste a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Leiste a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.img {
+  float: center;
+  width: 100%;
+  padding: 20px;
+}
+.Part1 {   
+  float: left;
+  width: 100%;
+}
+
+.Part2 {
+  float: left;
+  width: 100%;
+  background-color: #D2E1D2;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px 
+}
+.Tipps {
+  background-color: #4e5a23;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.table {
+  font-family: Avenir;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid white;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #b0b59c;
+}
+
+.row:after {
+  content: "";
+  float: middle;
+  display: table;
+  clear: both;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #4e5a23;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+p:hover {
+  font-weight: bold ;
+}
+
+</style>
+</head>
+<body>
+
+  <div class="header">
+  <h1>Poetry Slam</h1>
+  <p>Was genau ist das? Wie macht Mensch das? Das und mehr erfährst du hier... </p>
+</div>
+
+  <div class="Leiste">
+      <a href="#Home">Home</a>
+      <a href="#Starthilfe">Starthilfe</a>
+      <a href="#Aktuell">Aktuell</a>
+      <a href="#About Me" style="float:right">About me</a>
+    </div>
+
+  <div class="row">
+  <div class="Part1">
+  <div class="card">
+    <div id="Home">
+    </div>
+      <h2>WAS IST POETRYSLAM?</h2>
+      <h4>Poetry Slam ist - wie der Name schon verrät- ein moderner Poet*innen Wettbewerb.</h4>
+    <p>Das Publikum bewertet wer, bzw. welche Texte gewinnen. Es gibt verschiedene Modi aber es gibt im EInzelslam vor allem einen sehr beliebten.</p>
+    
+ <p>Hier gelten folgende Regeln:</p>
+      <ul>
+  <li>Die Texte müssen selbstgeschrieben sein! Sprich du darfst nicht die Texte deiner kleinen Schwester vorführen - das müsste sie selbst ;) </li>
+  <li>Es sind keine Requisiten oder Kostüme erlaubt. #Comeasyouare </li>
+  <li>Nicht mehr als 50% dürfen gesungen werden. Es geht schliesslich um Poesie...</li>
+  <li>RESPECT THE POET! <br> Das gilt vor allem fürs Publikum. Die Poet*innen die sich trauen auf die Bühne zu stehen werden respektiert und kriegen (auch wenn der Text - und zwar nicht auf eine gute Art- zum heulen war) einen Anstands-Aplaus.</li>
+</ul> 
+<div align=center>
+<img src="https://img.chmedia.ch/2022/09/20/4439fd3e-b527-4681-8178-d3684003ed29.jpeg?width=1360&height=906&fit=bounds&quality=75&auto=webp&crop=6720,4480,x0,y0" width="500" height="333">
+</div>
+      <p>Vor Beginn des Wettstreits werden random Personen aus dem Publikum gewählt um die Texter*innen zu bewerten. Sie kriegen ein Dossier mit Nummern zwischen 1-10 (manchmal sogar mit Kommazahlen)<br>Nach jeder Performance werden dann alle Wertungen eingesammelt und die höchste und tiefste werden gestrichen. Könnte ja sein, dass der rachedurstige Exfreund im Publikum sitzt... <br>Dann wird zusammengezählt und die mit den höchsten Wertungen kommen ins "Finale Stechen". Dort dürfen sie dann einen zweiten Text vortragen, welcher entscheidet wer den Slam gewinnt! </p>
+      
+      <p>Natürlich gibt es auch ganz andere Möglichkeiten so einen Slam zu gestalten - das wäre einfach mal so der "Typischste". </p>
+     </div>
+      
+  </div>
+ </div>
+    
+  <div class="card">
+    <div id="Starthilfe">
+    </div>
+      <h2>STARTHILFE:</h2>
+      <h4>Du willst mit dem Schreiben beginnen, weisst aber nicht wie?</h4>
+     <div align=center>
+<div align=center>
+<img src="https://s-media-cache-ak0.pinimg.com/736x/5c/7a/08/5c7a08570b4853e9de82f4736a14c231.jpg" width="400" height="400">
+</div>
+<p><i>Ein Zitat von Julia Engelmann</i></p>
+      <p>Grundsätzlich gibt es nicht "die Art" einen SLam zu schreiben. Aber das ist natürlich keine Hilfe. Darum hier ein paar Tipps von mir und anderen Slammer*innen:</p>   
+      
+      <div class="Tipps">
+<h3>"Lass dich treiben."</h3>
+<p>Je mehr du verzweifelt versuchst "den perfekten Text" zu schreiben, desto weniger wird dir das gelingen. Schreib einfach das was du schreiben willst und geniesse den Prozess. Denn auch wenn mensch (auch ich) es manchmal vergisst - das Schreiben selbst sollte im Fokus bleiben.</p>
+</div> 
+
+<div class="Tipps">
+<h3>"Wenn du eine Idee hast- notier sie dir!"</h3>
+<p>Wenn du irgendeinen Impuls bekommst - notier in dir sofort. Wenn möglich, fang sogar sofort mit dem Text an. In "die Zone" zu kommen ist nicht so leicht wie mensch erstmal von ausgeht - drum nutze jede Chance. </p>
+</div>
+
+<div class="Tipps">
+<h3>"Versuche nicht zu gewinnen."</h3>
+<p>Wie bereits erwähnt sollten andere Dinge im Fokus sein. Da im Poetry Slam bei den Wettbewerben die Reihnfolge gelost wird kommt es extrem auf deinen Startplatz an. Wenn du als erste PErson dran bist ist es praktisch unmöglich zu gewinnen. Das ist irgendwie ein ungeschriebenes Gesetz.</p>
+</div>
+
+<div class="Tipps">
+<h3>"Random ist perfekt."</h3>
+<p>Je verrückter die Text Idee, desto besser. Das Publikum hat keine Lust sich 20x die selben Texte über die selben Themen anzuhören. Natürlich kann die Message eine wichtige sein, die wir schon häufig zu hören bekommen - aber wie du sie verpackst soll möglichst eigen sein.</p>
+</div>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div id="Aktuell">
+      <h2>Aktuelles</h2>
+   <p> Hier sind die Träger*innen von einigen der Titel in der Szene (in der Schweiz).</p>
+      <table>
+  <tr>
+    <th>Titel</th>
+    <th>Träger*in</th>
+    <th>Land</th>
+  </tr>
+  <tr>
+    <td>Deutschsprachiger U22 Meister 2022</td>
+    <td>Yannik Noah Ambrusits</td>
+    <td>Deutschland</td>
+  </tr>
+  <tr>
+    <td>Schweizer U22 Meisterin 2022</td>
+    <td>Fine Degen</td>
+    <td>(Schweiz)</td>
+  </tr>
+  <tr>
+    <td>Deutschsprachige*r Meister*in 2022</td>
+    <td> *** </td>
+    <td> *** </td>
+  </tr>
+  <tr>
+    <td>Schweizer Meister 2022</td>
+    <td>Samuel Richner</td>
+    <td>Schweiz</td>
+  </tr>
+</table>
+<p> *** Die Deutschsprachigen Meister*innenschaften stehen noch aus. Sie sind vom 02. - 06. November in Wien.</p>
+      <div align=center>
+<img src="https://www.kulturzirkus.ch/wp-content/uploads/2021/08/Fine_Degen.jpg" width="300" height="400">
+<p> <i>Schweizer U22 Meisterin Fine Degen in Aktion</i></p>
+      </div>
+<p>Falls du mehr zu aktuellen <a href="https://poetryslam.ch">News und Events</a> mitbekommen willst, klicke einfach auf den Link. </p>
+    </div>
+    </div>
+    
+    <div class="card">
+    <div class="Part2">
+    <div id="About Me">
+    <h2>About me</h2>
+    <p>Ich bin Kim Neudeck, Basler U22 Meisterin 2022 und gehe seit neustem unter meinem Künstlerinnenname Zagazu auf die Bühne. </p>
+      <p> Ich bin 16 Jahre alt und schreibe seit ca 6 Jahren schon selber Slams.</p>
+      <p> Falls du mehr wissen willst geht es hier zu meiner Website:<br> <a href="https://jsfiddle.net/xr0vhjpc/1/">Fake Datei</a></p>
+      </div>
+    
+    <div class="card">
+      <h3>Follow Me  </h3>
+      <p>
+        <i>On Instagram</i> @kimneudeck <br>
+        <i> On TikTok</i> @Zagazu
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2> ... <br> Schon am schreiben ? ;) </h2>
+</div>
+
+</body>
+</html>
+
